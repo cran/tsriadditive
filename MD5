@@ -1,0 +1,12 @@
+260bd12129ec103bd4d039f88ce71a17 *DESCRIPTION
+6c8087eab6f4bb75a71c438ed40bebd8 *NAMESPACE
+94c476fa6a430157c650ee7cfb6db915 *R/auxilliaryfunction.R
+b44dbd7cfd7fb072928f4ddd56637cf6 *R/confintest.R
+7000cbfc8ffd255a222f69f8d87efe2a *R/regadditivefit.R
+a2976b6d92bcfd000e4b45f99d330b2a *R/tsriadditive.R
+e9e5c5dcaab1c174269868958229f1b6 *R/tsriadditivefit.R
+21bab3638b1e50a5683ddd37440df2e5 *R/varest.R
+fd77d9516224ecfd17b52d641e45ae2b *man/plot.tsriadditive.Rd
+759503d5f8ca32e9b3727fe039fc833d *man/predict.tsriadditive.Rd
+8043096e41ebc278587e0204d4a51036 *man/summary.tsriadditive.Rd
+0a972c450915d5b30ff0b8fc6fdd0890 *man/tsriadditive.Rd
